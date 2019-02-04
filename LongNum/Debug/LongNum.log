@@ -1,0 +1,11 @@
+﻿  LongNum.cpp
+d:\с++\arithmetic of integers\longnum\longnum.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\arithmetic of integers\longnum\longnum.cpp(222): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\arithmetic of integers\longnum\longnum.cpp(256): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\arithmetic of integers\longnum\longnum.cpp(257): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\arithmetic of integers\longnum\longnum.cpp(277): warning C4018: <: несоответствие типов со знаком и без знака
+d:\с++\arithmetic of integers\longnum\longnum.cpp(280): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+d:\с++\arithmetic of integers\longnum\longnum.cpp(289): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+d:\с++\arithmetic of integers\longnum\longnum.cpp(307): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+d:\с++\arithmetic of integers\longnum\longnum.cpp(719): warning C4018: <: несоответствие типов со знаком и без знака
+  LongNum.vcxproj -> D:\С++\Arithmetic of integers\Debug\LongNum.lib
